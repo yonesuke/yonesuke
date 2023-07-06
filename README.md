@@ -6,13 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently a PhD student at Kyoto University
-- 🌱 I’m interested in **dynamical systems** and **critical phenomena**
-- 💬 Ask me about Python
-- 📫 How to reach me: [@yonesuke1729](https://twitter.com/yonesuke1729) on Twitter
-- 😄 Kanji(漢字): 米田(Yoneda) 亮介(Ryosuke)
-- ⚡ Fun fact: Big fan of **[JAX](https://github.com/google/jax)** ✨
-
 - 👋 Hi, I’m Ryosuke Yoneda, a data scientist at Nomura Securities
 - 🎓 I have a Ph.D. in informatics from Kyoto University
 - 🔬 I’m fascinated by complex systems and network science
